@@ -1,0 +1,14 @@
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/aleksej/Yandex.Disk.localized/DEV/GB/02 - Основной курс/1-я четверть/06 - Знакомство с языками программирования (лекции)/01_CSHARP/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
